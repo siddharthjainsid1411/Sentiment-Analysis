@@ -45,4 +45,4 @@ python nlp_assignment3.py
 
 ## Author
 **Siddharth Jain**  
-M.Tech Research in Robotics and Autonomous Systems, IISc Bengaluru
+M.Tech in Robotics and Autonomous Systems, IISc Bengaluru
